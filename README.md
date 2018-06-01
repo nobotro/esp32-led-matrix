@@ -1,0 +1,3 @@
+# dual-core-esp32-led-matrix
+get data from web server using onboard wifi and print it on  led matrix 32X64(hub08)
+# esp32-led-matrix
